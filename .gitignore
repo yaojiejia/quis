@@ -1,0 +1,5 @@
+artifacts
+parquet
+rawdata
+.venv
+__pycache__
